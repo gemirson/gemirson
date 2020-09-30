@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 
-![Gemirson Status](https://github-readme-stats.vercel.app/api?username=Gemirson&show_icons=true)
+![Gemirson Status](https://github-readme-stats.vercel.app/api?username=gemirson&show_icons=true)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gemirson&layout=compact)](https://github.com/gemirson/github-readme-stats)

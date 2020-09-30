@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 ![Gemirson Status](https://github-readme-stats.vercel.app/api?username=gemirson&show_icons=true)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gemirson&layout=compact)](https://github.com/gemirson/github-readme-stats)
+
+
+
+[![Gemirson wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gemirson)](https://github.com/gemirson/github-readme-stats)
